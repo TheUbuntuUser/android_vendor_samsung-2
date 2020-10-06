@@ -941,6 +941,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_s5k4h5yc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k4h5yc.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_s5k4hayx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k4hayx.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_s5k5e9yx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e9yx.so \
+    vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_s5k5e9yx_front.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e9yx_front.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_silicon_sr544_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_silicon_sr544_eeprom.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_sony_imx214_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_sony_imx214_eeprom.so \
     vendor/samsung/msm8917-common/proprietary/vendor/lib/libmmcamera_sony_imx298_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_sony_imx298_eeprom.so \
