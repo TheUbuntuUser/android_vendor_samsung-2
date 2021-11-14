@@ -16,7 +16,11 @@
 
 LOCAL_PATH := $(call my-dir)
 
+<<<<<<< HEAD
 ifneq ($(filter j4primelte j4corelte j6primelte,$(TARGET_DEVICE)),)
+=======
+ifneq ($(filter j4primelte j2y18lte j6primelte,$(TARGET_DEVICE)),)
+>>>>>>> 1a811b9... j2y18lte: Initial j2y18lte support
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libsdm-disp-apis
